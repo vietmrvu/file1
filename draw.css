@@ -60,15 +60,7 @@ table {
 table td, table th {
     border: 1px solid #ddd;
     text-align: center;
-    padding-left: 7px;
-    padding-right: 7px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-}
-table th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: center;
+    padding: 12px;
     background-color: #04AA6D;
     color: white;
 }

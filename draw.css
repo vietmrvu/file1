@@ -86,7 +86,7 @@
     font-size: 66px
 }
 .thirdthird{
-    background-image: url("discuss.png");
+    background-image: url("background.jpeg");
     position: relative;
     over-flow: hidden
 }
@@ -98,24 +98,24 @@
     padding: 30px;
     font-size: 46px
 }
-.thirdthird{
-    background-image: url("discuss.png");
+.fourfour {
+    background-image: url("download.");
     position: relative;
     over-flow: hidden
 }
-.thirdthird  #right-side{
+.fourfour  #right-side{
     padding:20px
 }
-.thirdthird #left-side h2{
+.fourfour  #left-side h2{
     color: white;
     padding: 30px;
     font-size: 46px
 }
-.thirdthird #right-side ul li{
+.fourfour  #right-side ul li{
     color: white;
     font-size: 23px;
 }
-.thirdthird #right-side ul li a{
+.fourfour  #right-side ul li a{
     color: white;
     font-size: 13px;
 }

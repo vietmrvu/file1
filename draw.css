@@ -90,13 +90,34 @@
     position: relative;
     over-flow: hidden
 }
-.twotwo #right-side{
+.thirdthird  #right-side{
     padding:20px
 }
-.twotwo #left-side h2{
+.thirdthird #left-side h2{
     color: white;
     padding: 30px;
     font-size: 46px
+}
+.thirdthird{
+    background-image: url("discuss.png");
+    position: relative;
+    over-flow: hidden
+}
+.thirdthird  #right-side{
+    padding:20px
+}
+.thirdthird #left-side h2{
+    color: white;
+    padding: 30px;
+    font-size: 46px
+}
+.thirdthird #right-side ul li{
+    color: white;
+    font-size: 23px;
+}
+.thirdthird #right-side ul li a{
+    color: white;
+    font-size: 13px;
 }
 #right-side{
     flex:50%;

@@ -52,13 +52,16 @@
 }
 .oneone{
     background-image: url("images.jpeg");
-    position: relative
+    position: relative;
+    over-flow: hidden
 }
 .oneone #right-side ul li{
     color: white
 }
-.oneone #left-side{
-    color: white
+.oneone #left-side #si{
+    color: white;
+    padding: 30px;
+    font-size: 36
 }
 #right-side{
     flex:50%;

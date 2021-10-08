@@ -51,6 +51,10 @@
     flex:50%;
     background-color:#fffdfdf2
 }
+.oneone{
+    background-image: none;
+    position: relative
+}
 #right-side{
     flex:50%;
     background-color:white

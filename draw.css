@@ -68,6 +68,23 @@
     padding: 30px;
     font-size: 66px
 }
+.twotwo{
+    background-image: url("question.png");
+    position: relative;
+    over-flow: hidden
+}
+.two #right-side ul li{
+    color: white;
+    font-size: 23px;
+}
+.twotwo #right-side{
+    padding:20px
+}
+.twotwo #left-side h2{
+    color: white;
+    padding: 30px;
+    font-size: 66px
+}
 #right-side{
     flex:50%;
 }
@@ -133,7 +150,7 @@ img{
         overflow: hidden;
         font-size: 20px;
     }
-        #menu #left{
+    #menu #left{
         color: white;
         font-size: 20px;
         padding: 8px 10px;

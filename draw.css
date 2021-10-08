@@ -150,11 +150,9 @@ img{
     }
     #left-side{
         flex:100%;
-        background-color:#fffdfdf2
     }
     #right-side{
         flex:100%;
-        background-color:white
     }
 }
 @media(max-width: 470px){

@@ -52,8 +52,11 @@
     background-color:#fffdfdf2
 }
 .oneone{
-    background-image: url("images.");
+    background-image: url("images.jpeg");
     position: relative
+}
+.oneone #right-side ul li{
+    color: white
 }
 #right-side{
     flex:50%;

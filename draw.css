@@ -6,7 +6,8 @@
     margin: 0;
 }
 #menu{
-    background-color: grey;
+    background-color: blue;
+    background-image: linear-gradient(to bottom right, blue, cyan, green); 
     padding: 5px;
     overflow: hidden;
     font-size: 34px;

@@ -56,7 +56,11 @@
     over-flow: hidden
 }
 .oneone #right-side ul li{
-    color: white
+    color: white;
+    font-size: 23px;
+}
+.oneone #right-side{
+    padding:20px
 }
 .oneone #left-side #si{
     color: white;

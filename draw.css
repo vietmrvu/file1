@@ -85,6 +85,19 @@
     padding: 30px;
     font-size: 66px
 }
+.thirdthird{
+    background-image: url("discuss.png");
+    position: relative;
+    over-flow: hidden
+}
+.twotwo #right-side{
+    padding:20px
+}
+.twotwo #left-side h2{
+    color: white;
+    padding: 30px;
+    font-size: 46px
+}
 #right-side{
     flex:50%;
 }

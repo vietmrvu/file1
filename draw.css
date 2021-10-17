@@ -5,6 +5,10 @@
 #title img{
      height:70px
 }
+#title{
+     border-radius: 25px;
+     border-color: linear-gradient(to bottom right,grey, ); 
+}
 #menu{
     background-color: blue;
     background-image: linear-gradient(to bottom right, blue, cyan, green); 

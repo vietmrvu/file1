@@ -2,12 +2,8 @@
      height:100px;
      width: 320px
 }
-#title{
-     border-radius: 25px;
-     border-color: linear-gradient(to bottom right,grey, ); 
-}
 #menu{
-    background-image: url("1TaP."); 
+    background: linear-gradient(to right, white, rgb(58, 57, 57), black);
     overflow: hidden;
     font-size: 34px;
 }

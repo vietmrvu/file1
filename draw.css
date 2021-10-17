@@ -8,7 +8,7 @@
 }
 #menu{
     background-color: blue;
-    background-image: linear-gradient(to bottom right, blue, cyan, green); 
+    background-image: url("1TaP."); 
     padding: 5px;
     overflow: hidden;
     font-size: 34px;
@@ -23,23 +23,14 @@
 }
 #menu #right{
     color: white;
-    font-size: 34px;
-    padding: 7px;
+    font-size: 44px;
+    padding: 17px;
     float: right;
     text-align: center;
     text-decoration: none;
 }
-.here{
-    color: white;
-    font-size: 34px;
-    padding: 10px 14px;
-    float: left;
-    text-align: center;
-    text-decoration: none;   
-}    
 #menu #right:hover{
-    background-color: white;
-    color: black;
+    color: rgb(146, 142, 142);
 }
 #menu #left:hover{
     background-color: white;

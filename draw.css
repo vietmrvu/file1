@@ -1,8 +1,4 @@
 #menu a img{
-     width: 44px;
-     height: 44px; 
-}
-#menu #left img{
      height:100px;
      width: 320px
 }
@@ -28,6 +24,7 @@
 #menu #right{
     color: white;
     font-size: 34px;
+    padding: 7px;
     float: right;
     text-align: center;
     text-decoration: none;

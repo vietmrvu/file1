@@ -3,7 +3,8 @@
      height: 44px; 
 }
 #title img{
-     height:70px
+     height:70px;
+     width: 320
 }
 #title{
      border-radius: 25px;

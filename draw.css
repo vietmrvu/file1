@@ -7,9 +7,7 @@
      border-color: linear-gradient(to bottom right,grey, ); 
 }
 #menu{
-    background-color: blue;
     background-image: url("1TaP."); 
-    padding: 5px;
     overflow: hidden;
     font-size: 34px;
 }

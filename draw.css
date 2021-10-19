@@ -24,7 +24,7 @@
     text-decoration: none;
 }
 #menu #right:hover{
-    color: rgb(146, 142, 142);
+     border-bottom: 1px solid white
 }
 #menu #left:hover{
     background-color: white;

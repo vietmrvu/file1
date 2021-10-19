@@ -9,15 +9,15 @@
 }
 #menu #left{
     color: white;
-    font-size: 34px;
-    padding: 7px;
+    font-size: 20px;
+    padding: 17px;
     float: left;
     text-align: center;
     text-decoration: none
 }
 #menu #right{
     color: white;
-    font-size: 44px;
+    font-size: 20px;
     padding: 17px;
     float: right;
     text-align: center;
@@ -206,7 +206,7 @@ table td, table th {
     #menu #left{
         color: white;
         font-size: 18px;
-        padding: 8px 10px;
+        padding: 10px;
         float: left;
         text-align: center;
         text-decoration: none
@@ -214,10 +214,10 @@ table td, table th {
     #menu #right{
         color: white;
         font-size: 18px;
-        padding: 8px 10px;
+        padding: 10px;
         float: right;
         text-align: center;
-        text-decoration: none;
+        text-decoration: none
     }
     #container{
         display: flex;
@@ -239,7 +239,7 @@ table td, table th {
     #menu #left{
         color: white;
         font-size: 12px;
-        padding: 2px 6px;
+        padding: 6px;
         float: left;
         text-align: center;
         text-decoration: none
@@ -247,7 +247,7 @@ table td, table th {
     #menu #right{
         color: white;
         font-size: 12px;
-        padding: 2px 6px;
+        padding: 6px;
         float: right;
         text-align: center;
         text-decoration: none;
@@ -272,8 +272,8 @@ table td, table th {
     }
     #menu #left{
         color: white;
-        font-size: 12px;
-        padding: 8px 10px;
+        font-size: 11px;
+        padding: 9px;
         float: left;
         text-align: center;
         text-decoration: none

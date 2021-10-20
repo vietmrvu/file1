@@ -1,6 +1,9 @@
-#menu a img{
+#image{
      height:100px;
      width: 320px
+}
+#menu a img{
+     width: 40px
 }
 #menu{
     background: linear-gradient(to right, white, rgb(58, 57, 57), black);

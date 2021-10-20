@@ -1,17 +1,18 @@
- .button1 {
+.button1 {
     background-image: linear-gradient(
 135deg, #008aff, #86d472);
     border-radius: 6px;
     box-sizing: border-box;
     color: #ffffff;
     display: block;
-    height: 100px;
+    height: 50px;
     font-size: 1.4em;
     font-weight: 600;
     padding: 4px;
     text-decoration: none;
-    width: 10em;
+    width: 7em;
     float: right;
+    margin: 20px;
 }
 .button1:hover {
    color: #fff;

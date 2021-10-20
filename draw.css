@@ -1,7 +1,43 @@
+ *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+ .button1 {
+   background-image: linear-gradient(135deg, #008aff, #86d472);
+   border-radius: 6px;
+   box-sizing: border-box;
+   color: #ffffff;
+   display: block;
+   height: 50px;
+   font-size: 1.4em;
+   font-weight: 600;
+   padding: 4px;
+   text-decoration: none;
+   width: 7em;
+   width: 7em;
+   float: right 
+ }
+.button1:hover {
+   color: #fff;
+ }
+.button1 .btn1 {
+   align-items: center;
+   background: #0e0e10;
+   border-radius: 6px;
+   height: 100%;
+   transition: background 0.5s ease;
+   width: 100%;
+ }
+.button1:hover .btn1 {
+   background: transparent;
+}
 #image{
+     float: left; 
      height:100px;
      width: 320px
 }
+/* Title css */
 #menu a#img img{
      width: 200px;
 }

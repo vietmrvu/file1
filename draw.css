@@ -2,6 +2,9 @@
      height:100px;
      width: 320px
 }
+#menu #left a#img img{
+     width: 200px;
+}
 #menu{
     background: linear-gradient(to right, white, rgb(58, 57, 57), black);
     overflow: hidden;
